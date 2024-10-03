@@ -21,5 +21,9 @@ values
 
 select * from student;
 
+insert into student
+values
+("SS308","Shruthi","7899374379","Devloper");
+
       
       
